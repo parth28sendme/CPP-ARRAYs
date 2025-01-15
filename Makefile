@@ -3,10 +3,10 @@ CXX = clang++
 CXXFLAGS = -std=c++11 -Wall
 
 # Target executable
-TARGET = 10-Left-Rotate
+TARGET = 013-Frequency
 
 # Source files
-SRCS = 10-Left-Rotate.cpp
+SRCS = 013-Frequency.cpp
 
 # Build target
 $(TARGET): $(SRCS)
