@@ -3,10 +3,10 @@ CXX = clang++
 CXXFLAGS = -std=c++11 -Wall
 
 # Target executable
-TARGET = Sorting-Check
+TARGET = 10-Left-Rotate
 
 # Source files
-SRCS = Sorting-Check.cpp
+SRCS = 10-Left-Rotate.cpp
 
 # Build target
 $(TARGET): $(SRCS)
