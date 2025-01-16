@@ -3,10 +3,10 @@ CXX = clang++
 CXXFLAGS = -std=c++11 -Wall
 
 # Target executable
-TARGET = 013-Frequency
+TARGET = 015-Rainwater-Trapping
 
 # Source files
-SRCS = 013-Frequency.cpp
+SRCS =  015-Rainwater-Trapping.cpp
 
 # Build target
 $(TARGET): $(SRCS)
