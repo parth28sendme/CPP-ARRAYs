@@ -3,10 +3,10 @@ CXX = clang++
 CXXFLAGS = -std=c++11 -Wall
 
 # Target executable
-TARGET = 016-Max-Consecutive-ones
+TARGET = 018-Longest-Even-Odd-Subarray
 
 # Source files
-SRCS =  016-Max-Consecutive-ones.cpp
+SRCS =  018-Longest-Even-Odd-Subarray.cpp
 
 # Build target
 $(TARGET): $(SRCS)
