@@ -3,6 +3,9 @@
 #include <iostream>
 using namespace std;
 
+
+
+//WE WILL BE USING KADANE'S ALGORITHM///////////////////////
 int maxSub(int arr[] , int n){
 
 
