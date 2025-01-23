@@ -3,10 +3,10 @@ CXX = clang++
 CXXFLAGS = -std=c++11 -Wall
 
 # Target executable
-TARGET = 020-Majority-Element
+TARGET = 021-Minimum-Consecutive-Flips
 
 # Source files
-SRCS =  020-Majority-Element.cpp
+SRCS =  021-Minimum-Consecutive-Flips.cpp
 
 # Build target
 $(TARGET): $(SRCS)
