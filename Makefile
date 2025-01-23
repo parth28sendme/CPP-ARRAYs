@@ -3,10 +3,10 @@ CXX = clang++
 CXXFLAGS = -std=c++11 -Wall
 
 # Target executable
-TARGET = 019-Maximum-Circular-Sum-Subarray
+TARGET = 020-Majority-Element
 
 # Source files
-SRCS =  019-Maximum-Circular-Sum-Subarray.cpp
+SRCS =  020-Majority-Element.cpp
 
 # Build target
 $(TARGET): $(SRCS)
